@@ -30,6 +30,7 @@ public class StudentList {
         }
         
         System.out.println("Here is the word from the array");
+        System.out.println("Its Danish");
         
         // print out the array
         for(char letter: letters) {
